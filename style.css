@@ -246,6 +246,7 @@ body{
     width: 300px;
     border-radius: 25px;
     margin: 10px;
+    object-fit: scale-down;
 }
 .picforce3{
     height: 450px;
