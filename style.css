@@ -242,7 +242,7 @@ body{
     border-radius: 25px;
 }
 .picforce2{
-    height: fit-content;
+    height: auto;
     width: 300px;
     border-radius: 25px;
     margin: 10px;
