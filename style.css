@@ -269,6 +269,12 @@ body{
 .pos{
     margin-top: 40px;
 }
+.fixx{
+    position: relative;
+    right: 40px;
+    bottom: 5px;
+    
+}
 .customers{
     margin-top: 20px;
     font-family: Arial, Helvetica, sans-serif;
