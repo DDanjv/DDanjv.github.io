@@ -293,6 +293,10 @@ body{
   }
   .onerow{
     height: 150px;
+    background-color: #2060d764;
+    border-radius: 20px;
+    box-shadow: 0vw 5px 5px #1247aa25;
+
   }
   .word{
     margin-top: none;
