@@ -130,6 +130,7 @@ body{
 }
 .grid-container3 > p{
     background-color: rgba(231, 238, 249, 0.6);
+    -webkit-backdrop-filter: blur(15px);
     backdrop-filter: blur(15px);
     padding: 20px;
     border-radius: 20px;
@@ -287,6 +288,7 @@ body{
     padding: 2px;
     width: 360px;
     box-shadow: 0vw 10px 10px #2060d77b;
+    -webkit-backdrop-filter: blur(15px);
     backdrop-filter: blur(15px);
   }
   .customers td{
